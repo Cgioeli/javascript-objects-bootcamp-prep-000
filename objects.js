@@ -1,4 +1,5 @@
 var playlist = {Savatage: "Edge"};
 function updatePlaylist(playlist, Savatage, Edge){
-  playlist.slayer = "Angel"
+  playlist[slayer] = "Angel"
+  return playlist
 }
