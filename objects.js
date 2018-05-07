@@ -1,4 +1,4 @@
 var playlist = {Savatage: "Edge"};
-function updatePlaylist(playlist, Savatage, Edge){
-  return Object.assign({}, playlist, {[Slayer]: "Angel"})
+function updatePlaylist(obj, artist, song){
+  return Object.assign({}, obj, {[Savatage]: "Sleep"})
 }
