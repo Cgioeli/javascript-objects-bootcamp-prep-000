@@ -1,1 +1,1 @@
-var playList = {Savatage: "Edge"};
+var playlist = {Savatage: "Edge"};
