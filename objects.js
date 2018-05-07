@@ -1,4 +1,5 @@
 var playlist = {savatage: "Edge of Thorns"};
 function updatePlaylist(obj, artist, song) {
-  return 
+  obj[Slayer] = "Angel"
+  return obj
 }
